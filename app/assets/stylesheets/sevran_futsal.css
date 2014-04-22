@@ -1,0 +1,42 @@
+body {
+	background-color: rgb(0,0,0);
+
+}
+
+#mc_embed_signup {
+	background-color: black;
+}
+
+/* header */
+
+.jumbotron {
+	background-color: rgba(0,0,0,0.5);
+	color: white !important;
+	margin-top: 300px;
+    font-family: 'Keania One', cursive;
+
+
+}
+
+.container {
+	background: url(ban_vestiaire_LOGONEON.JPG);
+	margin: 0px;
+    font-family: 'Londrina Outline', cursive;
+}
+
+.nav-justified {
+	color: #FFFFFF !important;
+}
+
+
+.text-muted {
+	font-family: 'Keania One', cursive;
+	color: #006FFF;
+	font-size: 50px;
+	margin-left: 450px;
+
+}
+
+.masthead {
+	background-color: rgba(0,0,0,0.5) !important;
+}
