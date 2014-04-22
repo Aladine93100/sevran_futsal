@@ -4,7 +4,14 @@ body {
 }
 
 #mc_embed_signup {
-	background-color: black;
+	margin-top: 90px;
+	margin-left: 670px;
+}
+
+.newsletter {
+	color: white;
+    font-family: 'Keania One', cursive;
+
 }
 
 /* header */
@@ -12,7 +19,7 @@ body {
 .jumbotron {
 	background-color: rgba(0,0,0,0.5);
 	color: white !important;
-	margin-top: 300px;
+	margin-top: 200px;
     font-family: 'Keania One', cursive;
 
 
