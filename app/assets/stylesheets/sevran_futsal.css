@@ -49,9 +49,14 @@ body {
 
 }
 
+h3 {
+	color: white;
+}
+
 .masthead {
 	background-color: rgb(26,12,232,) !important;
 	border-bottom: solid white 5px;
+	color: white;
 }
 
 /* footer */
