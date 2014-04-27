@@ -2,10 +2,6 @@ body {
     background-color: black;
 }
 
-iframe {
-	display: none;
-}
-
 .histoire {
 	padding: 2px;
 	margin-left: 5px;
@@ -21,10 +17,6 @@ iframe {
 	border-radius: 20px;
 	margin-left: 400px;
 	margin-right: 300px;
-}
-
-.picture-bacquet {
-	display: none;
 }
 
 /* header */
