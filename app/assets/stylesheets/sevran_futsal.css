@@ -23,6 +23,10 @@ iframe {
 	margin-right: 300px;
 }
 
+.picture-bacquet {
+	display: none;
+}
+
 /* header */
 
 .jumbotron {
