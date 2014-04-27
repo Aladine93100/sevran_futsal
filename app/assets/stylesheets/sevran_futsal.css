@@ -1,6 +1,26 @@
 body {
-	background-color: rgb(0,0,0);
+    background-color: black;
+}
 
+iframe {
+	display: none;
+}
+
+.histoire {
+	padding: 2px;
+	margin-left: 5px;
+	font-size: 20px;
+}
+
+.msg-histoire {
+	display: none;
+	text-align: center;
+	font-family: 'Lobster', 'cursive';
+	background-color: rgb(255,255,255);
+	color: black;
+	border-radius: 20px;
+	margin-left: 400px;
+	margin-right: 300px;
 }
 
 /* header */
@@ -8,16 +28,16 @@ body {
 .jumbotron {
 	background-color: rgba(0,0,0,0.5);
 	color: white !important;
-	margin-top: 150px;
+	margin-top: 80px;
     font-family: 'Keania One', cursive;
-
-
 }
 
 .container {
-	background: url(ban_vestiaire_LOGONEON.JPG);
-	margin: 0px;
     font-family: 'Londrina Outline', cursive;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+
 }
 
 .nav-justified {
@@ -27,12 +47,38 @@ body {
 
 .text-muted {
 	font-family: 'Keania One', cursive;
-	color: #006FFF;
+	color: #1A0CE8;
 	font-size: 50px;
-	margin-left: 450px;
+	text-align: center;
 
 }
 
 .masthead {
-	background-color: rgba(0,0,0,0.5) !important;
+	background-color: rgb(26,12,232,) !important;
+	border-bottom: solid white 5px;
+}
+
+/* staff */
+
+#logo {
+opacity:0.2;
+filter:alpha(opacity=20); /* For IE8 and earlier */
+}
+
+.label {
+	background-color: blue;
+}
+
+.list-joueurs {
+	margin-top: 70px;
+	float: right;
+	font-family: 'Keania One', cursive;
+	background-color: rgba(26,12,232,0.3);
+	color: white;
+}
+
+.Didier {
+	display: none;
+	margin-top: 70px;
+	margin-left: 150px;
 }
