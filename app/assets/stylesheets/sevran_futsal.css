@@ -23,7 +23,7 @@ body {
 
 .jumbotron {
 	background-color: rgba(0,0,0,0.5);
-	color: white !important;
+	color: white  !important;
 	margin-top: 80px;
     font-family: 'Keania One', cursive;
 }
@@ -43,7 +43,7 @@ body {
 
 .text-muted {
 	font-family: 'Keania One', cursive;
-	color: #1A0CE8;
+	color: white;
 	font-size: 50px;
 	text-align: center;
 
@@ -52,6 +52,13 @@ body {
 .masthead {
 	background-color: rgb(26,12,232,) !important;
 	border-bottom: solid white 5px;
+}
+
+/* footer */
+
+footer {
+    font-family: 'Keania One', cursive;
+    color: white;
 }
 
 /* staff */
