@@ -1,26 +1,14 @@
 body {
+	background: url(theo.png) no-repeat center;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    margin-top: 300px;
     background-color: black;
 }
 
-.histoire {
-	padding: 2px;
-	margin-left: 5px;
-	font-size: 20px;
-}
-
-.msg-histoire {
-	display: none;
-	text-align: center;
-	font-family: 'Lobster', 'cursive';
-	background-color: rgb(255,255,255);
-	color: black;
-	border-radius: 20px;
-	margin-left: 400px;
-	margin-right: 300px;
-}
-
 /* header */
-
+/*
 .jumbotron {
 	background-color: rgba(0,0,0,0.5);
 	color: white  !important;
@@ -39,7 +27,7 @@ body {
 .nav-justified {
 	color: #FFFFFF !important;
 }
-
+*/
 
 .text-muted {
 	font-family: 'Keania One', cursive;
@@ -49,17 +37,6 @@ body {
 
 }
 
-.head {
-	font-family: 'Keania One', cursive;
-	color: white;
-}
-
-.masthead {
-	background-color: rgb(26,12,232,) !important;
-	border-bottom: solid white 5px;
-	color: white;
-}
-
 .lead {
 	font-family: 'Keania One', cursive;
 	color: white;
@@ -67,32 +44,9 @@ body {
 
 /* footer */
 
-footer {
-    font-family: 'Keania One', cursive;
-    color: white;
-}
-
-/* staff */
-
-#logo {
-opacity:0.2;
-filter:alpha(opacity=20); /* For IE8 and earlier */
-}
-
-.label {
-	background-color: blue;
-}
-
-.list-joueurs {
-	margin-top: 70px;
-	float: right;
+.footer {
 	font-family: 'Keania One', cursive;
-	background-color: rgba(26,12,232,0.3);
+	text-align: center;
 	color: white;
-}
-
-.Didier {
-	display: none;
-	margin-top: 70px;
-	margin-left: 150px;
+	font-size: 20px;
 }
