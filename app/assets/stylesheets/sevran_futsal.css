@@ -9,6 +9,14 @@ body {
 	width: 300px;
 }
 
+label {
+	color: white;
+}
+
+h2 {
+	color: white;
+}
+
 .signup {
 	text-align: center;
 }
