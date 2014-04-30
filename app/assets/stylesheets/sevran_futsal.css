@@ -1,48 +1,21 @@
 body {
-	background: url(theo.png) no-repeat center;
-	-webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    margin-top: 300px;
     background-color: black;
 }
 
-/* header */
-/*
-.jumbotron {
-	background-color: rgba(0,0,0,0.5);
-	color: white  !important;
-	margin-top: 80px;
-    font-family: 'Keania One', cursive;
+#mc_embed_signup{
+	background:black; 
+	clear:left; 
+	font:10px 'Keania One', cursive; 
+	width: 300px;
 }
 
-.container {
-    font-family: 'Londrina Outline', cursive;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-
-}
-
-.nav-justified {
-	color: #FFFFFF !important;
-}
-*/
-
-.text-muted {
-	font-family: 'Keania One', cursive;
-	color: white;
-	font-size: 50px;
+.signup {
 	text-align: center;
-
 }
 
-.lead {
-	font-family: 'Keania One', cursive;
-	color: white;
+.video {
+	margin-top: 10px;
 }
-
-/* footer */
 
 .footer {
 	font-family: 'Keania One', cursive;
