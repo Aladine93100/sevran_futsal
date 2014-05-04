@@ -1,13 +1,17 @@
 body { 
-  
+  margin:0;
+  padding:0;
   background: url(ban_vestiaire_LOGONEON.JPG) no-repeat center fixed; 
   -webkit-background-size: cover; /* pour Chrome et Safari */
   -moz-background-size: cover; /* pour Firefox */
   -o-background-size: cover; /* pour Opera */
   background-size: cover; /* version standardisée */
+  margin-right: 50px;
+  margin-left: 50px;
 }
 
 #mc_embed_signup{
+	margin-top: 120px;
 	background: rgba(0,0,0,0.0); 
 	clear:left; 
 	font:10px 'Keania One', cursive; 
