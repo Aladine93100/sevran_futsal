@@ -1,9 +1,15 @@
-body {
-    background-color: black;
+body { 
+  margin:0;
+  padding:0;
+  background: url(ban_vestiaire_LOGONEON.JPG) no-repeat center fixed; 
+  -webkit-background-size: cover; /* pour Chrome et Safari */
+  -moz-background-size: cover; /* pour Firefox */
+  -o-background-size: cover; /* pour Opera */
+  background-size: cover; /* version standardisée */
 }
 
 #mc_embed_signup{
-	background:black; 
+	background: rgba(0,0,0,0.0); 
 	clear:left; 
 	font:10px 'Keania One', cursive; 
 	width: 300px;
@@ -11,7 +17,7 @@ body {
 
 label {
 	color: white;
-}
+}	
 
 h2 {
 	color: white;
