@@ -10,6 +10,15 @@ body {
   margin-left: 50px;
 }
 
+.navbar {
+	background-color: rgba(0,0,0,0.5);
+}
+
+.navbar-right {
+	background-color: blue !important;
+	color: yellow !important;
+}
+
 #mc_embed_signup{
 	margin-top: 120px;
 	background: rgba(0,0,0,0.0); 
@@ -39,4 +48,12 @@ h2 {
 	text-align: center;
 	color: white;
 	font-size: 20px;
+}
+
+.jumbotron {
+	margin-top: 100px;
+	background-color: rgba(0,0,0,0.5);
+	font-family: 'Keania One', cursive;
+	color: white;
+
 }
