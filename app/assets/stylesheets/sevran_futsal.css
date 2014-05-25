@@ -24,6 +24,7 @@ body {
 	font-size: 15px; 
 	margin-right: 70px;
     margin-left: 70px;
+    margin-bottom: 5px;
 }
 
 .futsal {
@@ -85,9 +86,13 @@ h2 {
 }
 
 .thumbnail {
-	background-color: rgba(255,255,255,0.5);
+	background-color: rgba(0,0,0,0.5);
 	text-align: center;
-	font-family: 'Keania One', cursive;
+	font-family: 'Play', sans-serif;
+}
+
+.caption {
+	color: white !important;
 }
 
 
@@ -112,4 +117,31 @@ h2 {
 
 #video4 {
 	display: none;
+}
+
+/* footer */
+
+.part1 {
+	color: black;
+	width: 50%;
+	font-family: 'Play', sans-serif;
+}
+
+
+.part2 {
+	color: black;
+	font-family: 'Play', sans-serif;
+
+}
+
+hr {
+	margin-bottom: 0px;
+}
+
+#footer {
+	margin-top: 0px;
+	background-color: rgba(255,255,255,0.3);
+	font-family: 'Play', sans-serif;
+	padding-top: 20px;
+    color: black;
 }
