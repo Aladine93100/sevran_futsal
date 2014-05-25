@@ -1,0 +1,2 @@
+class FutsalController < ApplicationController
+end

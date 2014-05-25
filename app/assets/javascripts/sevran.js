@@ -35,5 +35,4 @@ $('document').ready(function() {
 		$( '.recit2, .recit3, .recit1' ).show( 'slow' )
 		$( '#video4' ).hide( 'slow' )
 	});
-
 });
