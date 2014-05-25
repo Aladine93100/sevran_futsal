@@ -93,6 +93,7 @@ h2 {
 
 .caption {
 	color: white !important;
+
 }
 
 
@@ -117,6 +118,14 @@ h2 {
 
 #video4 {
 	display: none;
+}
+
+.aladine {
+	margin-top: 30px;
+	font-family: 'Play', sans-serif;
+	background-color: rgb(0,0,0);
+	color: white;
+
 }
 
 /* footer */
